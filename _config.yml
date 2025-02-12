@@ -56,12 +56,19 @@ skills:
     - Laser Cutting
     - Arduino / Raspberry Pi
     - circuit testing
-  - category: Design Standards / Practices
+  - category: Programming Languages
     tools: 
-  - category: PCB Design
+    - Python
+    - JavaScript
+    - Learning VsCode
+    - MatLab
+    - Learning SQL and Pandas
+    
+  - category:  Design
     tools:
     - Altium (Designer)
     - Altium
+    - Ansys
   - category: Problem Solving / Risk Management
     tools:
     - Six Sigma methodologies
